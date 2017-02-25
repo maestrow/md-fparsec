@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "md-fparsec", "md-fparsec\md-fparsec.fsproj", "{241CDF22-415C-43ED-A510-86B1BBD46308}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{759C4640-C118-4550-A3C4-30EAB1E42C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241CDF22-415C-43ED-A510-86B1BBD46308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241CDF22-415C-43ED-A510-86B1BBD46308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241CDF22-415C-43ED-A510-86B1BBD46308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241CDF22-415C-43ED-A510-86B1BBD46308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759C4640-C118-4550-A3C4-30EAB1E42C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759C4640-C118-4550-A3C4-30EAB1E42C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759C4640-C118-4550-A3C4-30EAB1E42C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759C4640-C118-4550-A3C4-30EAB1E42C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
